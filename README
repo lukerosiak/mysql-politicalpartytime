@@ -1,9 +1,0 @@
-Linux shell script to download Political Partytime tables from the Sunlight Foundation (politicalpartytime.org), create mysql tables and populate them. 
-
-Modify the first three lines of download.sh with your mysql info. Make sure to create the database before running.
-
-Make the script executable with chmod -x download.sh.
-
-The date of the last time you ran the script will be stored in a text file for your reference.
-
-By Luke Rosiak. Released into the public domain.
